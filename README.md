@@ -1,86 +1,129 @@
 # Hi, I'm Arnav Saxena  
 
-AI/ML Research • Computer Vision • XR/VR Development • Embedded Systems • Robotics  
+AI/ML Engineer • Computer Vision • XR/VR Developer • Robotics & Embedded Systems  
 B.Tech Artificial Intelligence | India  
 
-I work on building real, deployed AI systems — from deep learning for agriculture to VR simulations, traffic automation, and predictive modeling.  
-Strong focus on Computer Vision, EfficientNet/YOLO pipelines, XR Interaction Toolkit, and practical engineering projects that actually ship.
+I build high-impact AI systems across computer vision, automation, VR, and tabular ML.  
+My work focuses on solving real-world problems: agriculture intelligence, traffic automation, XR-based learning, and predictive analytics.
 
 ---
 
-## 🔍 About Me
-- AI/ML engineer with hands-on experience in **CV pipelines, model training, optimization, and deployment**  
-- XR/VR developer trained under **Jio Tesseract XR Program (1st Prize Winner)**  
-- Kaggle Competition **1st Place Winner (Horse Survival Prediction)**  
-- Experience with **Unity XR**, **Arduino systems**, **deep learning**, and **real-world datasets**  
-- Strong interest in AI for **agriculture**, **automation**, and **applied robotics**  
-- Good at turning research ideas into working prototypes and fully functional systems  
+## 🚀 What I Work On
+- Deep Learning (CNNs, EfficientNet, Transformers, YOLO)
+- Fine-grained classification and detection pipelines
+- XR/VR simulations using Unity (XR Interaction Toolkit)
+- Machine learning optimization (LightGBM/XGBoost/CatBoost)
+- AI for agriculture, automation, and embedded IoT
+- Practical, deployable systems — not just theoretical code
 
 ---
 
-## 🛠 Tech Stack & Tools  
-**AI / ML:**  
-`Python` `PyTorch` `TensorFlow/Keras` `scikit-learn` `LightGBM` `XGBoost` `CatBoost`  
-`EfficientNet` `YOLOv8` `Sentence Transformers` `OpenCV`
+## 🔥 Featured Projects (All 8 Repositories)
 
-**Development:**  
-`C` `C++` `C#` `JavaScript` `HTML` `CSS` `SQL`
-
-**XR / VR:**  
-`Unity` `XR Interaction Toolkit` `C#` `Prefab Workflows` `Particle Systems`
-
-**Hardware & Robotics:**  
-`Arduino UNO` `Embedded Systems` `Serial Communication`  
-
-**Tools:**  
-`VS Code` `JupyterLab` `GitHub` `Blender` `Photoshop`
+### **1. Cattle Detection & Breed Classification**  
+**YOLOv8 + EfficientNetV2-S pipeline** for fine-grained Indian cattle breed recognition.  
+Includes class imbalance handling, reconstructed training curves, confusion matrices, metrics, and a two-stage workflow.  
+**Tech:** YOLOv8x, EfficientNetV2-S, Python, CV
 
 ---
 
-## 🚀 Featured Projects (Pinned)
+### **2. Smart Traffic Control (YOLO + Arduino)**  
+Real-time traffic density detection using YOLOv8 + OpenCV, controlling actual traffic lights via Arduino.  
+Implements adaptive green-light timing based on vehicle count.  
+**Tech:** YOLOv8, OpenCV, Serial Communication, Arduino
 
-### 🔹 Apple Disease Detection  
-CNN + MobileNetV2 pipeline for multi-class apple foliar disease classification.  
-**Deep Learning • Image Classification • FGVC Dataset**
+---
 
-### 🔹 Cattle Detection & Breed Classification  
-YOLOv8 detection + EfficientNetV2-S fine-grained breed classification.  
-**Computer Vision • Agriculture AI • Multi-class classification**
+### **3. Horse Survival Prediction (Kaggle – 1st Place)**  
+End-to-end ML pipeline with LightGBM, Optuna tuning, target encoding, class-balancing, repeated CV, and ensemble evaluation.  
+Finished **1st on private leaderboard**.  
+**Tech:** LightGBM, Python, Optuna, Tabular ML
 
-### 🔹 Horse Survival Prediction (1st Place Kaggle Winner)  
-ML pipeline using LightGBM, Optuna tuning, class balancing, and CV.  
-**Tabular ML • Kaggle Competition • F1 Optimization**
+---
 
-### 🔹 Smart Traffic Control (YOLO + Arduino)  
-Real-time vehicle detection and adaptive traffic signal automation.  
-**YOLOv8 • OpenCV • Arduino Serial Communication**
+### **4. Apple Disease Detection (Deep Learning)**  
+MobileNetV2-based multi-class leaf disease classifier using FGVC dataset.  
+Includes metrics, confusion matrices, predictions, augmentation, and saved model.  
+**Tech:** CNN, MobileNetV2, Keras, Deep Learning
 
-### 🔹 VR Farming Mini-Game (Jio Tesseract — 1st Prize)  
-Unity XR simulation of planting, watering, and plant growth stages.  
-**Unity XR • C# • VR Interaction Toolkit**
+---
 
-### 🔹 NVIDIA DLI Deep Learning Training  
-Completed official NVIDIA program — CNNs, augmentation, transfer learning, NLP, assessment score **96%**.  
-**PyTorch • Transfer Learning • Image Classification**
+### **5. VR Farming Mini-Game — Jio Tesseract XR Workshop (1st Prize)**  
+A Unity VR farming simulation where players plant seeds, water crops, and grow plants across multiple stages.  
+Built in 48 hours using XR Interaction Toolkit. **Won 1st Prize** (both days).  
+**Tech:** Unity, C#, XR Toolkit, VR Interactions
+
+---
+
+### **6. NVIDIA DLI Deep Learning (Assessment Accuracy: 96.32%)**  
+Projects created during official NVIDIA Deep Learning Institute training:  
+MNIST, ASL classification, Doggy Door with transfer learning, NLP, and final fruit classification assessment (0.9632 accuracy).  
+**Tech:** PyTorch, Transfer Learning, CNNs
+
+---
+
+### **7. Sem2 StudyMate Chatbot**  
+An **offline semantic chatbot** for B.Tech Semester 2 students.  
+Built using Sentence Transformers + cosine similarity + Tkinter GUI.  
+Optimized for low latency, small model size, and clean UI.  
+**Tech:** Sentence Transformers, Tkinter, Python
+
+---
+
+### **8. AI Search Algorithms Collection**  
+A complete collection of classical AI search algorithms and optimization strategies implemented in Python:  
+A*, UCS, Beam Search, Tabu Search, Hill Climbing, Alpha–Beta Pruning Tic-Tac-Toe, Simulated Annealing, IDDFS, CSPs, and more.  
+**Tech:** Python, Algorithms, Heuristics, Game AI
+
+---
+
+## 🧠 Technical Skills
+
+### **Core AI / ML**
+`PyTorch` `TensorFlow`  
+`LightGBM` `XGBoost` `CatBoost`  
+`Sentence Transformers`  
+`OpenCV` `scikit-learn`
+
+### **Computer Vision**
+`YOLOv8` `EfficientNet` `MobileNet`  
+`Data Augmentation` `Fine-Tuning`
+
+### **Software Development**
+`Python` `C` `C++` `C#`  
+`JavaScript` `HTML` `CSS`
+
+### **XR / VR Development**
+`Unity`  
+`XR Interaction Toolkit`  
+`C# Prefab Workflows`  
+`VR Interactions & Physics`
+
+### **Hardware / Embedded**
+`Arduino`  
+`Serial Communication`  
+`Sensor Integration`
 
 ---
 
 ## 🏆 Achievements
-- **1st Place — Kaggle Prediction Competition** (Horse Survival Prediction)  
-- **1st Prize — Jio Tesseract XR Workshop** (VR Farming Simulation, Day 1 & Day 2)  
-- Completed **NVIDIA DLI Deep Learning (0.9632 validation accuracy assessment)**  
-- Built multiple deployed AI systems in CV, XR, and automation  
+- **1st Place — Horse Survival Kaggle Competition**  
+- **1st Prize — Jio Tesseract XR Workshop (VR Farming Simulation)**  
+- **NVIDIA DLI Certificate – 96.32% Assessment Accuracy**  
+- Built 8 major end-to-end AI/ML/XR projects  
+- Strong portfolio in applied computer vision and agriculture AI
 
 ---
 
-## 📈 Ongoing Work
-- Building a weed-cutting rover for maize fields (AI + embedded hardware)  
-- Developing VR-based agricultural disease visualization  
-- Improving agricultural AI datasets and detection pipelines  
+## 📈 What I'm Building Next
+- AI-powered weed-cutting rover (motors + CV + embedded control)  
+- VR-based agricultural disease visualization  
+- Custom YOLO dataset for Indian cattle detection  
+- Lightweight on-device CV models for rural applications  
 
 ---
 
-## 🌐 Connect With Me  
+## 📬 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/arnav-saxena-a9a217367  
 - **Kaggle:** https://www.kaggle.com/saxena11arnav  
 - **Email:** arnav12saxena@gmail.com  
@@ -88,15 +131,4 @@ Completed official NVIDIA program — CNNs, augmentation, transfer learning, NLP
 
 ---
 
-## 📁 Full Project Portfolio  
-All repositories are available below, including:  
-- Algorithms collection  
-- Chatbot project  
-- Unity XR projects  
-- Deep learning notebooks  
-- Real-world AI systems
-
----
-
-> *"Building AI that works outside the lab — in fields, farms, roads, and real-world environments."*
-
+> *Building AI systems that work in the real world — in fields, farms, roads, classrooms, and everywhere technology actually matters.*
