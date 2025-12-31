@@ -115,6 +115,32 @@ Arduino • Serial Communication • Sensor Integration
 
 ---
 
+## 📊 Overview (Stable Metrics)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnav12saxena&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arnav12saxena&theme=github_dark" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arnav12saxena&theme=github_dark&utcOffset=5.5" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arnav12saxena&theme=github_dark" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arnav12saxena&theme=github_dark" height="140"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arnav12saxena/Arnav12saxena/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📈 What I'm Building Next
 
 - 🤖 AI-powered weed cutting rover  
