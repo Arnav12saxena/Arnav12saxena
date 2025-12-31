@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
+# 👇 This line is CRITICAL (fixes exit code 128)
 permissions:
   contents: write
 
@@ -12,15 +13,15 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: "Arnav12saxena"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Upload to output branch
+      - name: Push snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
