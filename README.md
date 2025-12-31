@@ -1,134 +1,141 @@
-# Hi, I'm Arnav Saxena  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400"/>
+</p>
 
-AI/ML Engineer • Computer Vision • XR/VR Developer • Robotics & Embedded Systems  
-B.Tech Artificial Intelligence | India  
+<h1 align="center">Hi, I'm Arnav Saxena 👋</h1>
+<h3 align="center">AI/ML • Computer Vision • XR/VR • Robotics & Embedded Systems</h3>
 
-I build high-impact AI systems across computer vision, automation, VR, and tabular ML.  
-My work focuses on solving real-world problems: agriculture intelligence, traffic automation, XR-based learning, and predictive analytics.
-
----
-
-## 🚀 What I Work On
-- Deep Learning (CNNs, EfficientNet, Transformers, YOLO)
-- Fine-grained classification and detection pipelines
-- XR/VR simulations using Unity (XR Interaction Toolkit)
-- Machine learning optimization (LightGBM/XGBoost/CatBoost)
-- AI for agriculture, automation, and embedded IoT
-- Practical, deployable systems — not just theoretical code
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=Building+AI+that+works+in+the+real+world.;Computer+Vision+Across+Farms%2C+Roads%2C+and+VR.;From+Data+to+Deployment.;AI+%7C+XR+%7C+Automation+%7C+Robotics.;Welcome+to+my+workspace.">
+</p>
 
 ---
 
-## 🔥 Featured Projects (All 8 Repositories)
+## 🚀 About Me
 
-### **1. Cattle Detection & Breed Classification**  
-**YOLOv8 + EfficientNetV2-S pipeline** for fine-grained Indian cattle breed recognition.  
-Includes class imbalance handling, reconstructed training curves, confusion matrices, metrics, and a two-stage workflow.  
-**Tech:** YOLOv8x, EfficientNetV2-S, Python, CV
+- 🎓 B.Tech Artificial Intelligence | India  
+- 🤖 I build deployable AI systems across Computer Vision, XR/VR, and Automation  
+- 🌱 Focused on agriculture intelligence, traffic automation, smart systems, and applied ML  
+- 🧠 Practical engineering mindset. Real-world systems, not only notebooks  
+
+> *AI should solve real problems, not stay theoretical.*
 
 ---
 
-### **2. Smart Traffic Control (YOLO + Arduino)**  
-Real-time traffic density detection using YOLOv8 + OpenCV, controlling actual traffic lights via Arduino.  
-Implements adaptive green-light timing based on vehicle count.  
+## 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,unity,cs,cpp,js,html,css,git,github,linux" />
+</p>
+
+---
+
+## 🛰️ Featured Projects
+
+### 🐄 Cattle Detection and Breed Classification
+Fine-grained Indian cattle breed recognition using YOLOv8 and EfficientNetV2-S  
+Includes class imbalance handling, confusion matrices, metrics, and a two-stage workflow  
+**Tech:** Python, OpenCV, YOLOv8, EfficientNetV2-S
+
+---
+
+### 🚦 Smart Traffic Control (YOLO + Arduino)
+Real-time traffic density detection controlling physical traffic lights via Arduino  
+Adaptive green-light timing using vehicle counts  
 **Tech:** YOLOv8, OpenCV, Serial Communication, Arduino
 
 ---
 
-### **3. Horse Survival Prediction (Kaggle – 1st Place)**  
-End-to-end ML pipeline with LightGBM, Optuna tuning, target encoding, class-balancing, repeated CV, and ensemble evaluation.  
-Finished **1st on private leaderboard**.  
+### 🐎 Horse Survival Prediction (Kaggle 1st Place)
+End-to-end ML pipeline using LightGBM, Optuna, target encoding, class weights, repeated CV and ensembling  
+🥇 Ranked 1st on the Private Leaderboard  
 **Tech:** LightGBM, Python, Optuna, Tabular ML
 
 ---
 
-### **4. Apple Disease Detection (Deep Learning)**  
-MobileNetV2-based multi-class leaf disease classifier using FGVC dataset.  
-Includes metrics, confusion matrices, predictions, augmentation, and saved model.  
-**Tech:** CNN, MobileNetV2, Keras, Deep Learning
+### 🍏 Apple Leaf Disease Detection
+MobileNetV2-based multi-class apple leaf disease classifier with full evaluation  
+**Tech:** Deep Learning, Keras, MobileNetV2
 
 ---
 
-### **5. VR Farming Mini-Game — Jio Tesseract XR Workshop (1st Prize)**  
-A Unity VR farming simulation where players plant seeds, water crops, and grow plants across multiple stages.  
-Built in 48 hours using XR Interaction Toolkit. **Won 1st Prize** (both days).  
-**Tech:** Unity, C#, XR Toolkit, VR Interactions
+### 🌾 VR Farming Mini-Game — Jio Tesseract XR Workshop (1st Prize)
+Unity VR simulation where players plant seeds, water crops, and grow plants  
+🏆 Won 1st Prize at the workshop  
+**Tech:** Unity, C#, XR Interaction Toolkit
 
 ---
 
-### **6. NVIDIA DLI Deep Learning (Assessment Accuracy: 96.32%)**  
-Projects created during official NVIDIA Deep Learning Institute training:  
-MNIST, ASL classification, Doggy Door with transfer learning, NLP, and final fruit classification assessment (0.9632 accuracy).  
-**Tech:** PyTorch, Transfer Learning, CNNs
+### 🧠 NVIDIA DLI Deep Learning Projects
+Built CNN and Transfer Learning pipelines, NLP tasks, ASL recognition and more  
+📊 Final Assessment Accuracy: **96.32 percent**  
+**Tech:** PyTorch, CNNs
 
 ---
 
-### **7. Sem2 StudyMate Chatbot**  
-An **offline semantic chatbot** for B.Tech Semester 2 students.  
-Built using Sentence Transformers + cosine similarity + Tkinter GUI.  
-Optimized for low latency, small model size, and clean UI.  
-**Tech:** Sentence Transformers, Tkinter, Python
+### 📚 Sem2 StudyMate Chatbot
+Offline chatbot using Sentence Transformers with Tkinter GUI  
+Optimized for speed and small model size  
+**Tech:** Python, NLP
 
 ---
 
-### **8. AI Search Algorithms Collection**  
-A complete collection of classical AI search algorithms and optimization strategies implemented in Python:  
-A*, UCS, Beam Search, Tabu Search, Hill Climbing, Alpha–Beta Pruning Tic-Tac-Toe, Simulated Annealing, IDDFS, CSPs, and more.  
-**Tech:** Python, Algorithms, Heuristics, Game AI
+### 🔍 AI Search Algorithms Collection
+Full suite of classical AI search and optimization algorithms  
+Includes A*, UCS, Beam Search, Tabu Search, Alpha Beta Pruning, Simulated Annealing, CSPs and more  
+**Tech:** Python, Algorithms, Game AI
 
 ---
 
 ## 🧠 Technical Skills
 
-### **Core AI / ML**
-`PyTorch` `TensorFlow`  
-`LightGBM` `XGBoost` `CatBoost`  
-`Sentence Transformers`  
-`OpenCV` `scikit-learn`
+### Core AI and ML  
+PyTorch • TensorFlow • LightGBM • XGBoost • CatBoost • Sentence Transformers • scikit-learn  
 
-### **Computer Vision**
-`YOLOv8` `EfficientNet` `MobileNet`  
-`Data Augmentation` `Fine-Tuning`
+### Computer Vision  
+YOLOv8 • EfficientNet • MobileNet • Data Augmentation • Fine Tuning  
 
-### **Software Development**
-`Python` `C` `C++` `C#`  
-`JavaScript` `HTML` `CSS`
+### XR and VR Development  
+Unity • XR Interaction Toolkit • C# • VR Physics and Interactions  
 
-### **XR / VR Development**
-`Unity`  
-`XR Interaction Toolkit`  
-`C# Prefab Workflows`  
-`VR Interactions & Physics`
+### Software Development  
+Python • C • C++ • C# • JavaScript • HTML • CSS  
 
-### **Hardware / Embedded**
-`Arduino`  
-`Serial Communication`  
-`Sensor Integration`
+### Hardware and Embedded  
+Arduino • Serial Communication • Sensor Integration  
 
 ---
 
 ## 🏆 Achievements
-- **1st Place — Horse Survival Kaggle Competition**  
-- **1st Prize — Jio Tesseract XR Workshop (VR Farming Simulation)**  
-- **NVIDIA DLI Certificate – 96.32% Assessment Accuracy**  
-- Built 8 major end-to-end AI/ML/XR projects  
-- Strong portfolio in applied computer vision and agriculture AI
+
+- 🥇 1st Place — Horse Survival Kaggle Competition  
+- 🥇 1st Prize — Jio Tesseract XR Workshop  
+- 🎖 NVIDIA DLI Certification with 96.32 percent accuracy  
+- 📦 Built 8 plus end-to-end AI, ML and XR systems  
 
 ---
 
 ## 📈 What I'm Building Next
-- AI-powered weed-cutting rover (motors + CV + embedded control)  
-- VR-based agricultural disease visualization  
-- Custom YOLO dataset for Indian cattle detection  
-- Lightweight on-device CV models for rural applications  
+
+- 🤖 AI-powered weed cutting rover  
+- 🥽 VR-based agricultural disease visualization  
+- 🐄 Custom YOLO dataset for Indian cattle detection  
+- 📱 Lightweight CV models for on-device rural deployment  
 
 ---
 
-## 📬 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/arnav-saxena-a9a217367  
-- **Kaggle:** https://www.kaggle.com/saxena11arnav  
-- **Email:** arnav12saxena@gmail.com  
-- **GitHub:** https://github.com/Arnav12saxena  
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Arnav12saxena"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://www.linkedin.com/in/arnav-saxena-a9a217367/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.kaggle.com/saxena11arnav"><img src="https://skillicons.dev/icons?i=kaggle" width="40"/></a>
+</p>
+
+<p align="center">
+📧 arnav12saxena@gmail.com
+</p>
 
 ---
 
-> *Building AI systems that work in the real world — in fields, farms, roads, classrooms, and everywhere technology actually matters.*
+<p align="center"><i>"Building AI systems that work in the real world: in fields, farms, roads, classrooms, and everywhere technology actually matters."</i></p>
