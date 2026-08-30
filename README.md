@@ -13,10 +13,10 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Artificial Intelligence | India  
-- 🤖 I build deployable AI systems across Computer Vision, XR/VR, and Automation  
-- 🌱 Focused on agriculture intelligence, traffic automation, smart systems, and applied ML  
-- 🧠 Practical engineering mindset. Real-world systems, not only notebooks  
+- 🎓 B.Tech Artificial Intelligence | India
+- 🤖 I build deployable AI systems across Computer Vision, XR/VR, and Automation
+- 🌱 Focused on agriculture intelligence, traffic automation, smart systems, and applied ML
+- 🧠 Practical engineering mindset. Real-world systems, not only notebooks
 
 > *AI should solve real problems, not stay theoretical.*
 
@@ -30,88 +30,112 @@
 
 ---
 
+## 📄 Research & Publications
+
+- **Published** — [Integrating Artificial Intelligence and Machine Learning for Sustainable Development in Agriculture and Allied Sectors of the Temperate Himalayas](https://doi.org/10.3390/agriengineering8010035), AgriEngineering, 8(1), 35 (2026)
+- **Published** — [An Analytical Study on Indigenous and Crossbred Cow Breeds of Jammu and Kashmir and Ladakh](https://doi.org/10.18805/IJAR.B-5779), Indian Journal of Animal Research (2026)
+- **Under review** — Parameter Efficient Vision Transformer Using Low-Rank Adaptation for Classification of Indigenous Indian Buffalo Breeds (ViT+LoRA, 83.53% accuracy, 5-fold cross-validation)
+- **Under review** — RFID and blockchain based traceability systems for livestock and supply chains
+
+---
+
 ## 🛰️ Featured Projects
 
+### 🧠 ARIA — Adaptive Research and Intelligence Assistant
+Personal research assistant with a FastAPI backend, React frontend, and ChromaDB long-term memory
+Runs on Groq API (laptop, GTX 1650) or local Ollama/Mistral (university PC, RTX 4070)
+**Tech:** FastAPI, React, ChromaDB, Groq, Ollama
+
+---
+
+### 🎬 VCIA — Video Content Intelligence & Analysis
+Full-stack platform for automated video scene detection and frame-level analysis, deployed end to end
+Backend on Render, frontend on Vercel, real-time progress tracking during analysis
+**Tech:** FastAPI, OpenCV, Vite, Render, Vercel
+
+---
+
 ### 🐄 Cattle Detection and Breed Classification
-Fine-grained Indian cattle breed recognition using YOLOv8 and EfficientNetV2-S  
-Includes class imbalance handling, confusion matrices, metrics, and a two-stage workflow  
+Fine-grained Indian cattle breed recognition using YOLOv8 and EfficientNetV2-S
+Includes class imbalance handling, confusion matrices, metrics, and a two-stage workflow
 **Tech:** Python, OpenCV, YOLOv8, EfficientNetV2-S
 
 ---
 
 ### 🚦 Smart Traffic Control (YOLO + Arduino)
-Real-time traffic density detection controlling physical traffic lights via Arduino  
-Adaptive green-light timing using vehicle counts  
+Real-time traffic density detection controlling physical traffic lights via Arduino
+Adaptive green-light timing using vehicle counts
 **Tech:** YOLOv8, OpenCV, Serial Communication, Arduino
 
 ---
 
 ### 🐎 Horse Survival Prediction (Kaggle 1st Place)
-End-to-end ML pipeline using LightGBM, Optuna, target encoding, class weights, repeated CV and ensembling  
-🥇 Ranked 1st on the Private Leaderboard  
+End-to-end ML pipeline using LightGBM, Optuna, target encoding, class weights, repeated CV and ensembling
+🥇 Ranked 1st on the Private Leaderboard
 **Tech:** LightGBM, Python, Optuna, Tabular ML
 
 ---
 
 ### 🍏 Apple Leaf Disease Detection
-MobileNetV2-based multi-class apple leaf disease classifier with full evaluation  
+MobileNetV2-based multi-class apple leaf disease classifier with full evaluation
 **Tech:** Deep Learning, Keras, MobileNetV2
 
 ---
 
 ### 🌾 VR Farming Mini-Game — Jio Tesseract XR Workshop (1st Prize)
-Unity VR simulation where players plant seeds, water crops, and grow plants  
-🏆 Won 1st Prize at the workshop  
+Unity VR simulation where players plant seeds, water crops, and grow plants
+🏆 Won 1st Prize at the workshop
 **Tech:** Unity, C#, XR Interaction Toolkit
 
 ---
 
 ### 🧠 NVIDIA DLI Deep Learning Projects
-Built CNN and Transfer Learning pipelines, NLP tasks, ASL recognition and more  
-📊 Final Assessment Accuracy: **96.32 percent**  
+Built CNN and Transfer Learning pipelines, NLP tasks, ASL recognition and more
+📊 Final Assessment Accuracy: **96.32 percent**
 **Tech:** PyTorch, CNNs
 
 ---
 
 ### 📚 Sem2 StudyMate Chatbot
-Offline chatbot using Sentence Transformers with Tkinter GUI  
-Optimized for speed and small model size  
+Offline chatbot using Sentence Transformers with Tkinter GUI
+Optimized for speed and small model size
 **Tech:** Python, NLP
 
 ---
 
 ### 🔍 AI Search Algorithms Collection
-Full suite of classical AI search and optimization algorithms  
-Includes A*, UCS, Beam Search, Tabu Search, Alpha Beta Pruning, Simulated Annealing, CSPs and more  
+Full suite of classical AI search and optimization algorithms
+Includes A*, UCS, Beam Search, Tabu Search, Alpha Beta Pruning, Simulated Annealing, CSPs and more
 **Tech:** Python, Algorithms, Game AI
 
 ---
 
 ## 🧠 Technical Skills
 
-### Core AI and ML  
-PyTorch • TensorFlow • LightGBM • XGBoost • CatBoost • Sentence Transformers • scikit-learn  
+### Core AI and ML
+PyTorch • TensorFlow • LightGBM • XGBoost • CatBoost • Sentence Transformers • scikit-learn
 
-### Computer Vision  
-YOLOv8 • EfficientNet • MobileNet • Data Augmentation • Fine Tuning  
+### Computer Vision
+YOLOv8 • EfficientNet • MobileNet • Data Augmentation • Fine Tuning
 
-### XR and VR Development  
-Unity • XR Interaction Toolkit • C# • VR Physics and Interactions  
+### XR and VR Development
+Unity • XR Interaction Toolkit • C# • VR Physics and Interactions
 
-### Software Development  
-Python • C • C++ • C# • JavaScript • HTML • CSS  
+### Software Development
+Python • C • C++ • C# • JavaScript • HTML • CSS
 
-### Hardware and Embedded  
-Arduino • Serial Communication • Sensor Integration  
+### Hardware and Embedded
+Arduino • Serial Communication • Sensor Integration
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 1st Place — Horse Survival Kaggle Competition  
-- 🥇 1st Prize — Jio Tesseract XR Workshop  
-- 🎖 NVIDIA DLI Certification with 96.32 percent accuracy  
-- 📦 Built 8 plus end-to-end AI, ML and XR systems  
+- 🥇 1st Place — Horse Survival Kaggle Competition
+- 🥇 1st Prize — Jio Tesseract XR Workshop
+- 🎖 NVIDIA DLI Certification with 96.32 percent accuracy
+- 📄 2 published research papers, 2 more under review
+- 📦 Built 10 plus end-to-end AI, ML and XR systems
 
 ---
 
@@ -143,10 +167,10 @@ Arduino • Serial Communication • Sensor Integration
 
 ## 📈 What I'm Building Next
 
-- 🤖 AI-powered weed cutting rover  
-- 🥽 VR-based agricultural disease visualization  
-- 🐄 Custom YOLO dataset for Indian cattle detection  
-- 📱 Lightweight CV models for on-device rural deployment  
+- 🤖 AI-powered weed cutting rover
+- 🥽 VR-based agricultural disease visualization
+- 🐄 Custom YOLO dataset for Indian cattle detection
+- 📱 Lightweight CV models for on-device rural deployment
 
 ---
 
@@ -154,7 +178,7 @@ Arduino • Serial Communication • Sensor Integration
 
 <p align="center">
   <a href="https://github.com/Arnav12saxena"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="https://www.linkedin.com/in/arnav-saxena-a9a217367/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.linkedin.com/in/arnav-saxena-39113a3a0/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://www.kaggle.com/saxena11arnav"><img src="https://skillicons.dev/icons?i=kaggle" width="40"/></a>
 </p>
 
