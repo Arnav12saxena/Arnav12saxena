@@ -32,26 +32,35 @@
 
 ## 📄 Research & Publications
 
-- **Published** — [Integrating Artificial Intelligence and Machine Learning for Sustainable Development in Agriculture and Allied Sectors of the Temperate Himalayas](https://doi.org/10.3390/agriengineering8010035), AgriEngineering, 8(1), 35 (2026)
-- **Published** — [An Analytical Study on Indigenous and Crossbred Cow Breeds of Jammu and Kashmir and Ladakh](https://doi.org/10.18805/IJAR.B-5779), Indian Journal of Animal Research (2026)
-- **Under review** — Parameter Efficient Vision Transformer Using Low-Rank Adaptation for Classification of Indigenous Indian Buffalo Breeds (ViT+LoRA, 83.53% accuracy, 5-fold cross-validation)
-- **Under review** — RFID and blockchain based traceability systems for livestock and supply chains
+- **Published:** [Integrating Artificial Intelligence and Machine Learning for Sustainable Development in Agriculture and Allied Sectors of the Temperate Himalayas](https://doi.org/10.3390/agriengineering8010035), AgriEngineering, 8(1), 35 (2026)
+- **Published:** [An Analytical Study on Indigenous and Crossbred Cow Breeds of Jammu and Kashmir and Ladakh](https://doi.org/10.18805/IJAR.B-5779), Indian Journal of Animal Research (2026)
+- **Under review:** Parameter Efficient Vision Transformer Using Low-Rank Adaptation for Classification of Indigenous Indian Buffalo Breeds (ViT+LoRA, 83.53% accuracy, 5-fold cross-validation)
+- **Under review:** RFID and blockchain based traceability systems for livestock and supply chains
 
 ---
 
 ## 🛰️ Featured Projects
 
-### 🧠 ARIA — Adaptive Research and Intelligence Assistant
+### 🧠 ARIA - Adaptive Research and Intelligence Assistant
 Personal research assistant with a FastAPI backend, React frontend, and ChromaDB long-term memory
 Runs on Groq API (laptop, GTX 1650) or local Ollama/Mistral (university PC, RTX 4070)
 **Tech:** FastAPI, React, ChromaDB, Groq, Ollama
 
 ---
 
-### 🎬 VCIA — Video Content Intelligence & Analysis
+### 🎬 VCIA - Video Content Intelligence & Analysis
 Full-stack platform for automated video scene detection and frame-level analysis, deployed end to end
 Backend on Render, frontend on Vercel, real-time progress tracking during analysis
 **Tech:** FastAPI, OpenCV, Vite, Render, Vercel
+
+---
+
+### 🏫 360° Virtual Tours - SKUAST-K Campus & CAIML
+Led a 3-person team as Team Leader on a CAIML departmental project building two 360° virtual tours,
+one for the SKUAST-K campus and one for the CAIML department, embedded on the official SKUAST-K
+and CAIML websites
+Completed under the guidance of Dr. Showkat Rasool and Mr. Mohammad Saqib Dar (April - August 2026)
+**Tech:** 360° Photography, Web Embedding
 
 ---
 
@@ -82,7 +91,7 @@ MobileNetV2-based multi-class apple leaf disease classifier with full evaluation
 
 ---
 
-### 🌾 VR Farming Mini-Game — Jio Tesseract XR Workshop (1st Prize)
+### 🌾 VR Farming Mini-Game - Jio Tesseract XR Workshop (1st Prize)
 Unity VR simulation where players plant seeds, water crops, and grow plants
 🏆 Won 1st Prize at the workshop
 **Tech:** Unity, C#, XR Interaction Toolkit
@@ -131,9 +140,10 @@ Arduino • Serial Communication • Sensor Integration
 
 ## 🏆 Achievements
 
-- 🥇 1st Place — Horse Survival Kaggle Competition
-- 🥇 1st Prize — Jio Tesseract XR Workshop
+- 🥇 1st Place: Horse Survival Kaggle Competition
+- 🥇 1st Prize: Jio Tesseract XR Workshop
 - 🎖 NVIDIA DLI Certification with 96.32 percent accuracy
+- 🏫 Led a 3-person team building 360° virtual tours for SKUAST-K and CAIML
 - 📄 2 published research papers, 2 more under review
 - 📦 Built 10 plus end-to-end AI, ML and XR systems
 
