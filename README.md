@@ -20,6 +20,18 @@
 
 > *AI should solve real problems, not stay theoretical.*
 
+
+## 🎓 Academic Work & Faculty Acknowledgements
+
+I value projects that connect classroom learning with practical institutional needs, and I’m grateful for the faculty guidance that helps turn ideas into useful outcomes.
+
+- **360° Virtual Tours — CAIML, SKUAST-Kashmir:** Led a three-member student team to document the campus and CAIML Discovery Building through interactive virtual tours. The project was carried out under the guidance of **Dr. Showkat Rasool** and **Mr. Mohammad Saqib Dar**.
+- **Research in AI for agriculture:** Co-authored published work on AI/ML for sustainable development in the temperate Himalayas and on indigenous and crossbred cattle breeds of Jammu and Kashmir and Ladakh. Publication details and DOI links are listed below.
+- **Interdisciplinary focus:** Interested in applying AI, computer vision, and immersive technology to agriculture, livestock, education, and campus experiences.
+
+*I appreciate the time, feedback, and mentorship provided by faculty and collaborators. Names are included here to acknowledge their guidance on the project noted above, not to imply endorsement of my other work.*
+
+
 ## 🧰 Technologies
 
 <p align="center">
