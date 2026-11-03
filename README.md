@@ -29,7 +29,7 @@
 </p>
 
 **AI/ML:** PyTorch, TensorFlow/Keras, scikit-learn, LightGBM, Optuna, Sentence Transformers  
-**Computer vision:** YOLOv8, EfficientNetV2-S, MobileNetV2, OpenCV  
+**Computer vision:** YOLOv8, EfficientNetV2-S, ResNet50, OpenCV  
 **XR and robotics:** Unity, XR Interaction Toolkit, C#, Arduino, serial communication  
 **Development:** Python, C/C++, JavaScript, HTML/CSS, FastAPI, React, Git/GitHub
 
