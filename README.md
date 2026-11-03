@@ -50,22 +50,22 @@ Led a three-person team to create two separate 360° virtual tours: 230 outdoor 
 **Project period:** April–August 2026 · **Supervisors:** Dr. Showkat Rasool and Mr. Mohammad Saqib Dar
 
 ### 🐄 [Cattle Detection and Breed Classification](https://github.com/Arnav12saxena/cattle-detection-classification)
-Two-stage computer-vision pipeline using YOLOv8x for cattle detection/cropping and EfficientNetV2-S for fine-grained Indian cattle breed classification. The repository documents dataset challenges, evaluation, and visual results.
+Two-stage computer-vision pipeline using COCO-pretrained YOLOv8x for cattle cropping and EfficientNetV2-S for fine-grained classification across 16 Indian cattle breeds. Reported test accuracy is 0.75786 (about 76–77%) with a macro F1-score of 0.76. Project period: 2025.
 
 ### 🚦 [Smart Traffic Control — YOLOv8 + Arduino](https://github.com/Arnav12saxena/smart-traffic-yolo-arduino)
-Real-time vehicle detection and traffic-density-based signal control, combining computer vision with Arduino hardware and serial communication.
+Prototype using a pretrained YOLOv8n model on a single road-camera feed. A 10-vehicle threshold selects priority for Road A or Road B, with the decision sent to Arduino-controlled traffic lights. Project period: 2025.
 
 ### 🐎 [Horse Survival Prediction — Kaggle](https://github.com/Arnav12saxena/horse-survival-kaggle)
 Tabular ML workflow using LightGBM, Optuna tuning, feature engineering, categorical encoding, and cross-validation. The repository reports a first-place competition result; see its README for the recorded leaderboard scores.
 
 ### 🍎 [Apple Leaf Disease Detection](https://github.com/Arnav12saxena/apple-disease-detection)
-MobileNetV2 transfer-learning classifier for six apple leaf disease categories, with data augmentation, evaluation metrics, confusion matrices, and sample predictions.
+Frozen ImageNet-pretrained ResNet50 with a custom classification head for six apple leaf categories. The recorded run achieved 82.72% validation accuracy and 91.59% training accuracy. Project period: 2025.
 
 ### 🌾 [VR Farming Mini-Game — Jio Tesseract XR Workshop](https://github.com/Arnav12saxena/vr-mini-game-jio-tesseract)
 Unity VR farming simulation with seed planting, watering, plant growth stages, and XR interactions. The project repository records a first-prize workshop result.
 
 ### 🧠 [NVIDIA DLI Deep Learning Projects](https://github.com/Arnav12saxena/nvidia-dli-deeplearning)
-Collection of deep-learning exercises spanning CNNs, transfer learning, NLP, and ASL recognition. The profile records a 96.32% final assessment accuracy.
+Collection of deep-learning exercises spanning CNNs, transfer learning, NLP, and ASL recognition. NVIDIA DLI training completed in April 2025; the profile records a 96.32% final assessment accuracy.
 
 ### 📚 [Sem2 StudyMate Chatbot](https://github.com/Arnav12saxena/sem2-studymate-chatbot)
 Offline study chatbot using Sentence Transformers, semantic similarity, and a Tkinter GUI for student revision.
@@ -82,8 +82,6 @@ Student robotics project exploring a six-degree-of-freedom Stewart platform. Cur
 
 - **Published:** [Integrating Artificial Intelligence and Machine Learning for Sustainable Development in Agriculture and Allied Sectors of the Temperate Himalayas](https://doi.org/10.3390/agriengineering8010035) — *AgriEngineering*, 8(1), 35 (2026).
 - **Published:** [An Analytical Study on Indigenous and Crossbred Cow Breeds of Jammu and Kashmir and Ladakh](https://doi.org/10.18805/IJAR.B-5779) — *Indian Journal of Animal Research* (2026).
-- **Under review:** Parameter-Efficient Vision Transformer using LoRA for classification of indigenous Indian buffalo breeds.
-- **Under review:** RFID- and blockchain-based traceability systems for livestock and supply chains.
 
 ## 🏆 Highlights
 
@@ -128,7 +126,7 @@ Student robotics project exploring a six-degree-of-freedom Stewart platform. Cur
 
 <p align="center">
   <a href="https://github.com/Arnav12saxena"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/arnav-saxena-a9a217367/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/arnav-saxena-39113a3a0"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/saxena11arnav"><img src="https://skillicons.dev/icons?i=kaggle" width="40" alt="Kaggle"/></a>
 </p>
 
