@@ -1,27 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="560" viewBox="0 0 1080 560" role="img" aria-labelledby="title desc">
-<title id="title">Arnav Saxena — developer profile</title><desc id="desc">Terminal-inspired profile card with AI, machine learning, computer vision, projects, research and contact information.</desc>
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-</defs>
-<rect width="1080" height="560" rx="22" fill="url(#bg)"/>
-<rect x="1" y="1" width="1078" height="558" rx="21" fill="none" stroke="#334155" stroke-width="2"/>
-<circle cx="30" cy="28" r="6" fill="#fb7185"/><circle cx="52" cy="28" r="6" fill="#fbbf24"/><circle cx="74" cy="28" r="6" fill="#34d399"/>
-<text x="102" y="34" fill="#94a3b8" font-family="Consolas,monospace" font-size="15">arnav@github: ~/profile</text>
-<text x="42" y="105" fill="#e2e8f0" font-family="Consolas,monospace" font-size="35" font-weight="700">Arnav Saxena</text>
-<rect x="42" y="124" width="360" height="4" rx="2" fill="url(#accent)"/>
-<text x="42" y="164" fill="#7dd3fc" font-family="Consolas,monospace" font-size="19">B.Tech Artificial Intelligence · IIT Mandi</text>
-<text x="42" y="207" fill="#94a3b8" font-family="Consolas,monospace" font-size="16">$ whoami</text>
-<text x="42" y="234" fill="#e2e8f0" font-family="Consolas,monospace" font-size="17">AI/ML · Deep Learning · Computer Vision</text>
-<text x="42" y="260" fill="#e2e8f0" font-family="Consolas,monospace" font-size="17">Agriculture AI · Robotics · XR/VR</text>
-<text x="42" y="304" fill="#94a3b8" font-family="Consolas,monospace" font-size="16">$ toolkit</text>
-<text x="42" y="331" fill="#c4b5fd" font-family="Consolas,monospace" font-size="17">Python · PyTorch · TensorFlow · OpenCV</text>
-<text x="42" y="357" fill="#c4b5fd" font-family="Consolas,monospace" font-size="17">YOLO · scikit-learn · LightGBM · Arduino</text>
-<text x="42" y="401" fill="#94a3b8" font-family="Consolas,monospace" font-size="16">$ currently_building</text>
-<text x="42" y="428" fill="#e2e8f0" font-family="Consolas,monospace" font-size="16">Underwater image enhancement · Research</text>
-<text x="42" y="454" fill="#e2e8f0" font-family="Consolas,monospace" font-size="16">Agricultural AI · Applied computer vision</text>
-<line x1="42" y1="485" x2="1038" y2="485" stroke="#334155"/>
-<text x="42" y="519" fill="#94a3b8" font-family="Consolas,monospace" font-size="15">2 published papers  ·  Kaggle competition winner  ·  Building practical AI systems</text>
-<text x="42" y="542" fill="#64748b" font-family="Consolas,monospace" font-size="12">github.com/Arnav12saxena</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="530px" viewBox="0 0 985 530" role="img" aria-labelledby="title desc">
+<title id="title">Arnav Saxena — GitHub profile terminal</title>
+<desc id="desc">ASCII-inspired AI profile with education, technical stack, research, projects and contact information.</desc>
+<rect width="985" height="530" rx="15" fill="#0d1117"/>
+<rect x="1" y="1" width="983" height="528" rx="14" fill="none" stroke="#30363d"/>
+<rect x="12" y="12" width="961" height="506" rx="12" fill="#161b22"/>
+<text x="24" y="34" fill="#8b949e" font-family="Consolas,monospace" font-size="12">arnav@github: ~/profile — README.md</text>
+<text x="20" y="45" fill="#c9d1d9" font-family="Consolas,monospace" font-size="12"><tspan x="20" y="48">                 .-=========-.</tspan>
+<tspan x="20" y="66">             .-+###############+-.</tspan>
+<tspan x="20" y="84">          .-+#####################+-.</tspan>
+<tspan x="20" y="102">        .+###########+==+###########+.</tspan>
+<tspan x="20" y="120">       +#########*-.      .-*#########+</tspan>
+<tspan x="20" y="138">     .+########+.              .+######+.</tspan>
+<tspan x="20" y="156">    .+#######+.     .-====-.      .+#####+.</tspan>
+<tspan x="20" y="174">   .+######+.     .+########+.      .+####+.</tspan>
+<tspan x="20" y="192">  .+#####+.      +############+       .+###+.</tspan>
+<tspan x="20" y="210">  +#####+       +##############+        +###+</tspan>
+<tspan x="20" y="228"> .#####+       +#######++#######.        +###.</tspan>
+<tspan x="20" y="246"> +####+        +######.  .######+         +###+</tspan>
+<tspan x="20" y="264"> +####.        .+####+    +####+.         .####</tspan>
+<tspan x="20" y="282"> +####.          .--.      .--.            .####</tspan>
+<tspan x="20" y="300"> +####.      .-+################+-.        .####</tspan>
+<tspan x="20" y="318"> +####+    .+######################+.      +####</tspan>
+<tspan x="20" y="336"> .#####+  +##########+==+###########+     +####.</tspan>
+<tspan x="20" y="354">  +#####+.########+.      .+#########.  .+####+</tspan>
+<tspan x="20" y="372">   +################.    .###################+</tspan>
+<tspan x="20" y="390">    .+##############+....+#################+.</tspan>
+<tspan x="20" y="408">      .+#################################+.</tspan>
+<tspan x="20" y="426">        .-+###########################+-.</tspan>
+<tspan x="20" y="444">            .-+###################+-.</tspan>
+<tspan x="20" y="462">                 .-==========-.</tspan>
+<tspan x="20" y="480"></tspan></text>
+<line x1="344" y1="45" x2="344" y2="493" stroke="#30363d"/>
+<text x="366" y="34" fill="#c9d1d9" font-family="Consolas,monospace" font-size="15" font-weight="bold">Arnav12saxena</text>
+<text x="500" y="34" fill="#8b949e" font-family="Consolas,monospace" font-size="12">—————————————————————————————</text>
+<g font-family="Consolas,monospace" font-size="12.5"><text x="366" y="55" fill="#ffa657" font-weight="bold">Identity</text><text x="500" y="55" fill="#8b949e">:</text><text x="520" y="55" fill="#a5d6ff">Arnav Saxena</text>
+<text x="366" y="94" fill="#ffa657" font-weight="bold">Education</text><text x="500" y="94" fill="#8b949e">:</text><text x="520" y="94" fill="#a5d6ff">B.Tech Artificial Intelligence · IIT Mandi</text>
+<text x="366" y="121" fill="#ffa657" font-weight="bold">Focus</text><text x="500" y="121" fill="#8b949e">:</text><text x="520" y="121" fill="#a5d6ff">AI/ML · Deep Learning · Computer Vision</text>
+<text x="366" y="148" fill="#ffa657" font-weight="bold">Domains</text><text x="500" y="148" fill="#8b949e">:</text><text x="520" y="148" fill="#a5d6ff">Agriculture AI · Livestock · Robotics · XR/VR</text>
+<text x="366" y="187" fill="#ffa657" font-weight="bold">Programming</text><text x="500" y="187" fill="#8b949e">:</text><text x="520" y="187" fill="#a5d6ff">Python · C/C++ · JavaScript</text>
+<text x="366" y="214" fill="#ffa657" font-weight="bold">ML / Vision</text><text x="500" y="214" fill="#8b949e">:</text><text x="520" y="214" fill="#a5d6ff">PyTorch · TensorFlow · OpenCV · YOLO</text>
+<text x="366" y="241" fill="#ffa657" font-weight="bold">Libraries</text><text x="500" y="241" fill="#8b949e">:</text><text x="520" y="241" fill="#a5d6ff">scikit-learn · LightGBM · Optuna</text>
+<text x="366" y="268" fill="#ffa657" font-weight="bold">Development</text><text x="500" y="268" fill="#8b949e">:</text><text x="520" y="268" fill="#a5d6ff">Django · FastAPI · React · Git</text>
+<text x="366" y="295" fill="#ffa657" font-weight="bold">Hardware</text><text x="500" y="295" fill="#8b949e">:</text><text x="520" y="295" fill="#a5d6ff">Arduino · ESP32 · Embedded Systems</text>
+<text x="366" y="334" fill="#ffa657" font-weight="bold">Research</text><text x="500" y="334" fill="#8b949e">:</text><text x="520" y="334" fill="#a5d6ff">2 published papers · AI in agriculture &amp; livestock</text>
+<text x="366" y="361" fill="#ffa657" font-weight="bold">Current work</text><text x="500" y="361" fill="#8b949e">:</text><text x="520" y="361" fill="#a5d6ff">Underwater image enhancement · Deep learning</text>
+<text x="366" y="388" fill="#ffa657" font-weight="bold">Projects</text><text x="500" y="388" fill="#8b949e">:</text><text x="520" y="388" fill="#a5d6ff">Cattle · Traffic · Apple · Horse Survival · VR Tours</text>
+<text x="366" y="415" fill="#ffa657" font-weight="bold">Achievements</text><text x="500" y="415" fill="#8b949e">:</text><text x="520" y="415" fill="#a5d6ff">Kaggle competition · 1st place (private leaderboard)</text>
+<text x="366" y="454" fill="#ffa657" font-weight="bold">GitHub</text><text x="500" y="454" fill="#8b949e">:</text><text x="520" y="454" fill="#a5d6ff">github.com/Arnav12saxena</text>
+<text x="366" y="481" fill="#ffa657" font-weight="bold">LinkedIn</text><text x="500" y="481" fill="#8b949e">:</text><text x="520" y="481" fill="#a5d6ff">linkedin.com/in/arnav-saxena-39113a3a0</text>
+<text x="366" y="508" fill="#ffa657" font-weight="bold">Email</text><text x="500" y="508" fill="#8b949e">:</text><text x="520" y="508" fill="#a5d6ff">arnav12saxena@gmail.com</text>
+</g>
+<line x1="366" y1="490" x2="950" y2="490" stroke="#30363d"/>
+<text x="366" y="508" fill="#8b949e" font-family="Consolas,monospace" font-size="11">Building practical AI systems for real-world problems.</text>
 </svg>
