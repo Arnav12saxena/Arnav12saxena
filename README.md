@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="320" alt="Welcome animation"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="Arnav Saxena — AI/ML, Computer Vision and Robotics" src="dark_mode.svg" width="100%">
+  </picture>
+</div>
 
 <h1 align="center">Hi, I’m Arnav Saxena 👋</h1>
 <h3 align="center">Artificial Intelligence · Computer Vision · XR/VR · Robotics</h3>
